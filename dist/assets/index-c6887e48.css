@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;body{@apply bg-dark-blue text-white;}.prose{@apply text-inherit;h1,h2,h3,h4,h5,h6 {@apply text-accent-blue;} a {@apply text-accent-blue hover:text-blue-400;} code {@apply bg-dark-gray p-1 rounded;} pre {@apply bg-dark-gray p-4 rounded overflow-x-auto;}}
